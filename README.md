@@ -8,7 +8,7 @@
 - The goal of the project is to develop a business intelligence application that will support decision makers using data from an online retail business.
 
 - You can access the database from the *'db'* folder.
-- The interface of the system is designed using HTML5, CSS and JavaScript.
+- The interface of the system is designed using HTML5, CSS, JavaScript and PHP.
 - Graphics were created in *'Tableu Public'* and embedded in the web interface.
 
 
